@@ -13,5 +13,8 @@
   },
   "author": "Pranay Lohe",
   "license": "ISC",
+  "engines": {
+    "node": "16.13.2"
+  },
   "description": "to-do list"
 }
